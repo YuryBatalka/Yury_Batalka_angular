@@ -1,0 +1,9 @@
+{ "name": "angular-task1",
+  "version": "0.0.1",
+  "author" : { 
+  	"name" : "Yury Batalka"
+  },
+  "dependencies": {
+    "lodash" : "latest"
+  }
+}
